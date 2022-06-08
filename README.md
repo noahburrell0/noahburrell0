@@ -1,6 +1,6 @@
 # Hello, folks! 👋
 
-My name is Noah Burrell and I'm a Linux SysAdmin and DevOps engineer. I'm from Ontario, Canada and currently working for the Empire Life Insurance Company. You can find me on [![LinkedIn][2.2]][2].
+My name is Noah Burrell and I'm a Linux SysAdmin and DevOps engineer. I'm from Ontario, Canada and am currently working for the Empire Life Insurance Company. You can find me on [![LinkedIn][2.2]][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Desktop_OS-Pop!__OS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -28,7 +28,7 @@ My name is Noah Burrell and I'm a Linux SysAdmin and DevOps engineer. I'm from O
 ## 👨‍🦱 About Me
 I co-founded [Frontenac Technology Services](https://frontenac.tech/) [![Github][1.2]][3] which aims to help organizations establish and manage their infrastructure. 
 
-With a formal education in computer networking, a homelab to try new things in, and years of professional experience in System Administration and DevOps/GitOps, I have a well rounded IT background and a strong passion learning new things.
+With a formal education in computer networking, a homelab to try new things in, and years of professional experience in System Administration and DevOps/GitOps, I have a well rounded IT background and a strong passion for learning new things.
 
 My hobbies include:
 - 💾 Hoarding data in my homelab.

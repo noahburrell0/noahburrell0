@@ -1,6 +1,6 @@
 # Hello, folks! 👋
 
-My name is Noah Burrell and I'm a Linux SysAdmin and DevOps engineer. I'm from Ontario, Canada and currently working for the Empire Life Insurance Company. You can find me on [![LinkedIn][3.2]][2].
+My name is Noah Burrell and I'm a Linux SysAdmin and DevOps engineer. I'm from Ontario, Canada and currently working for the Empire Life Insurance Company. You can find me on [![LinkedIn][2.2]][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Desktop_OS-Pop!__OS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -54,12 +54,12 @@ My hobbies include:
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/0o48UoR.png ()
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[2.2]: https://raw.githubusercontent.com/noahburrell0/noahburrell0/main/resources/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: http://i.imgur.com/9I6NRUm.png ()
+[2.2]: https://raw.githubusercontent.com/noahburrell0/noahburrell0/main/resources/linkedin-3-16.png ()
 
 <!-- links to your social media accounts -->
 

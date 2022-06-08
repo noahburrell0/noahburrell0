@@ -38,27 +38,6 @@ My hobbies include:
 - 🏡 Working on my yard.
 - 🍲 Cooking delicious foods in my smoker.
 
-## 📈 Github Statistics
-### 🏠 Personal Account
-<a href="https://github.com/noahburrell0/noahburrell0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noahburrell0&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Noah's Personal GitHub Stats" />
-</a>
-<a href="https://github.com/noahburrell0/noahburrell0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahburrell0&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/Frontenac-Technology-Services/k8s-configs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Frontenac-Technology-Services&repo=k8s-configs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-### 🏢 Work Account
-<a href="https://github.com/citnkb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=citnkb&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Noah's Personal GitHub Stats" />
-</a>
-<a href="https://github.com/citnkb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citnkb&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/0o48UoR.png ()

@@ -46,7 +46,7 @@ My hobbies include:
             2021-08 &#8594; Present
         </td>
         <td>
-            SysAdmin/DevOps Engineer @ <a href="https://www.empire.ca/">Empire Life Insurance Company</a>
+            <img src="https://www.empire.ca/themes/custom/empiretheme_subtheme/favicon.ico" height="16px"> SysAdmin/DevOps Engineer @ <a href="https://www.empire.ca/">Empire Life Insurance Company</a>
         </td>
     </tr>
     <tr>
@@ -54,7 +54,7 @@ My hobbies include:
             2019-04 &#8594; Present
         </td>
         <td>
-            Co-Founder @ <a href="https://www.frontenac.tech/">Frontenac Technology Services</a>
+            <img src="https://frontenac.dev/favicon.ico" height="16px"> Co-Founder @ <a href="https://www.frontenac.tech/">Frontenac Technology Services</a>
         </td>
     </tr>
     <tr>
@@ -62,7 +62,7 @@ My hobbies include:
             2019-04 &#8594; 2021-08
         </td>
         <td>
-            SysAdmin @ <a href="https://www.telecommetric.com/">Telecom Metric</a>
+            <img src="https://telecommetric.com/wp-content/uploads/2017/08/cropped-favicon-32x32.png" height="16px"> SysAdmin @ <a href="https://www.telecommetric.com/">Telecom Metric</a>
         </td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@ My hobbies include:
             2017-11 &#8594; 2019-03
         </td>
         <td>
-            Research Assistant @ <a href="https://www.algonquincollege.com/arie/">Algonquin College ARIE</a>
+            <img src="https://www.algonquincollege.com/favicon.ico" height="16px"> Research Assistant @ <a href="https://www.algonquincollege.com/arie/">Algonquin College ARIE</a>
         </td>
     </tr>
         <tr>

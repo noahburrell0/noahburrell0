@@ -54,7 +54,7 @@ My hobbies include:
             2019-04 &#8594; Present
         </td>
         <td>
-            <img src="https://frontenac.dev/favicon.ico" height="16px"> Co-Founder @ <a href="https://www.frontenac.tech/">Frontenac Technology Services</a>
+            <img src="https://frontenac.dev/favicon-32x32.png" height="16px"> Co-Founder @ <a href="https://www.frontenac.tech/">Frontenac Technology Services</a>
         </td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@ My hobbies include:
             2017-11 &#8594; 2019-03
         </td>
         <td>
-            <img src="https://www.algonquincollege.com/favicon.ico" height="16px"> Research Assistant @ <a href="https://www.algonquincollege.com/arie/">Algonquin College ARIE</a>
+            <img src="https://s7494.pcdn.co/wp-content/themes/ac-2017/images/favicons/favicon.ico?v=xQd5vya3e2" height="16px"> Research Assistant @ <a href="https://www.algonquincollege.com/arie/">Algonquin College ARIE</a>
         </td>
     </tr>
         <tr>

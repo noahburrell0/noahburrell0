@@ -40,44 +40,44 @@ My hobbies include:
 
 ## 💼 Professional Experience
 
-<table width="100%"  style="border:0px solid white; width:100%;">
-    <tr style="border: 0px;">
-        <td style="border:0px">
+<table width="100%">
+    <tr>
+        <td>
             2021-08 &#8594; Present
         </td>
-        <td style="border:0px">
+        <td>
             SysAdmin/DevOps Engineer @ <a href="https://www.empire.ca/">Empire Life Insurance Company</a>
         </td>
     </tr>
-    <tr style="border: 0px;">
-        <td style="border:0px">
+    <tr>
+        <td>
             2019-04 &#8594; Present
         </td>
-        <td style="border:0px">
+        <td>
             Co-Founder @ <a href="https://www.frontenac.tech/">Frontenac Technology Services</a>
         </td>
     </tr>
-    <tr style="border: 0px;">
-        <td style="border:0px">
+    <tr>
+        <td>
             2019-04 &#8594; 2021-08
         </td>
-        <td style="border:0px">
+        <td>
             SysAdmin @ <a href="https://www.telecommetric.com/">Telecom Metric</a>
         </td>
     </tr>
-    <tr style="border: 0px;">
-        <td style="border:0px">
+    <tr>
+        <td>
             2017-11 &#8594; 2019-03
         </td>
-        <td style="border:0px">
+        <td>
             Research Assistant @ <a href="https://www.algonquincollege.com/arie/">Algonquin College ARIE</a>
         </td>
     </tr>
-        <tr style="border: 0px;">
-        <td style="border:0px">
+        <tr>
+        <td>
             Pre-2017
         </td>
-        <td style="border:0px">
+        <td>
             Nothing exciting
         </td>
     </tr>

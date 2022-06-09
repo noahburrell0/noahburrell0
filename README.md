@@ -54,7 +54,7 @@ My hobbies include:
             2019-04 &#8594; Present
         </td>
         <td>
-            <img src="https://frontenac.dev/favicon-32x32.png" height="16px"> Co-Founder @ <a href="https://www.frontenac.tech/">Frontenac Technology Services</a>
+            <img src="https://frontenac.dev/icons/favicon-32x32.png" height="16px"> Co-Founder @ <a href="https://www.frontenac.tech/">Frontenac Technology Services</a>
         </td>
     </tr>
     <tr>

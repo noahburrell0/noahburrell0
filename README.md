@@ -4,7 +4,7 @@ My name is Noah Burrell and I'm a Linux SysAdmin and DevOps engineer. I'm from O
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Desktop_OS-Pop!__OS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Server_OS-RHEL_8-informational?style=flat&logo=redhat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Server_OS-Debian_11-informational?style=flat&logo=debian&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hypervisor-VMWare_ESXi-informational?style=flat&logo=vmware&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hypervisor-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)

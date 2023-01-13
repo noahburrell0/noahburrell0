@@ -26,16 +26,13 @@ My name is Noah Burrell and I'm a Linux SysAdmin and DevOps engineer. I'm from O
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
 
 ## 👨‍🦱 About Me
-I co-founded [Frontenac Technology Services](https://frontenac.tech/) [![Github][1.2]][3] which aims to help organizations establish and manage their infrastructure. 
-
-With a formal education in computer networking, a homelab to try new things in, and years of professional experience in System Administration and DevOps/GitOps, I have a well rounded IT background and a strong passion for learning new things.
+I have a formal education in computer networking, a homelab to try new things in, and years of professional experience as a System Administrator and DevOps/GitOps engineer. My IT background is very well rounded and I have a strong passion for learning new things.
 
 My hobbies include:
 - 💾 Hoarding data in my homelab.
-- 🖥 Experimenting with different technologies.
+- 🖥 Experimenting with different open source tools and technologies.
 - 🖱 Trying to make my web development skills less terrible.
 - 🐕 Training my dog, Ruby.
-- 🏡 Working on my yard.
 - 🍲 Cooking delicious foods in my smoker.
 
 ## 💼 Professional Experience

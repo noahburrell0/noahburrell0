@@ -35,7 +35,8 @@ My hobbies include:
 - 🍲 Cooking delicious foods in my smoker.
 
 Check out my website!
-[https://burrell.tech/](https://burrell.tech/)
+
+[burrell.tech](https://burrell.tech/)
 
 ## 💼 Professional Experience
 

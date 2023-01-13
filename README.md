@@ -83,23 +83,6 @@ My hobbies include:
     </tr>
 </table>
 
-## 🧠 Certifications
-<p align="center">
-<table>
-    <tr>
-        <td>
-            <img src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x293.png" height="128">
-        </td>
-        <td>
-            <img src="https://lwfiles.mycourse.app/codefresh-public/496953759882a1c17316bb7114216fc5.png" height="128">
-        </td>
-        <td>
-            <img src="https://lwfiles.mycourse.app/codefresh-public/90f89804dd47ebe26c52f7cc99163a38.png" height="128">
-        </td>
-    </tr>
-</table
-</p>
-
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/0o48UoR.png ()

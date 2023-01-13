@@ -34,9 +34,9 @@ My hobbies include:
 - 🐕 Training my dog, Ruby.
 - 🍲 Cooking delicious foods in my smoker.
 
-Check out my website!
+Check out my website at [burrell.tech](https://burrell.tech/)!
 
-[burrell.tech](https://burrell.tech/)
+
 
 ## 💼 Professional Experience
 

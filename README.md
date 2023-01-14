@@ -89,3 +89,9 @@ Check out my website at [burrell.tech](https://burrell.tech/)!
 [1]: https://github.com/noahburrell0
 [2]: https://www.linkedin.com/in/noahburrell/
 [3]: https://github.com/Frontenac-Technology-Services
+
+## 💸 Hire Me
+
+Need help getting started with Kubernetes (or DevOps, or GitOps), or have a project you need an extra set of hands with? I'm available for freelance and consulting work! I'm a CKA certified Kubernetes (and Linux) administrator and DevOps engineer during the day in the financial services industry, and I also do a lot of the same sort of stuff in my spare time for fun.
+
+Email me directly at [noah@burrell.tech](mailto:noah@burrell.tech), or visit my website at [burrell.tech](https://burrell.tech). I promise I don't bite.

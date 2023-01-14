@@ -29,6 +29,7 @@ I have a formal education in computer networking, a homelab to try new things in
 
 My hobbies include:
 - 💾 Hoarding data in my homelab.
+- ⌨️ Trying to GitOps-ify my whole life.
 - 🖥 Experimenting with different open source tools and technologies.
 - 🖱 Trying to make my web development skills less terrible.
 - 🐕 Training my dog, Ruby.

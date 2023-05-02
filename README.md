@@ -47,7 +47,7 @@ Check out my website at [burrell.tech](https://burrell.tech/)!
             2021-08 &#8594; Present
         </td>
         <td>
-            <img src="https://www.empire.ca/themes/custom/empiretheme_subtheme/favicon.ico" height="16px"> SysAdmin/DevOps Engineer @ <a href="https://www.empire.ca/">Empire Life Insurance Company</a>
+            <img src="https://www.empire.ca/themes/custom/empirelifetheme/favicon.ico" height="16px"> SysAdmin/GitOps Engineer @ <a href="https://www.empire.ca/">Empire Life Insurance Company</a>
         </td>
     </tr>
     <tr>

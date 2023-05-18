@@ -44,7 +44,15 @@ Check out my website at [burrell.tech](https://burrell.tech/)!
 <table width="100%" border="0px">
     <tr>
         <td>
-            2021-08 &#8594; Present
+            2023-05 &#8594; Present
+        </td>
+        <td>
+            <img src="https://akuity.io/favicon-32x32.png" height="16px"> Technical Support Engineer @ <a href="https://www.akuity.io/">Akuity</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            2021-08 &#8594; 2023-05
         </td>
         <td>
             <img src="https://www.empire.ca/themes/custom/empirelifetheme/favicon.ico" height="16px"> SysAdmin/GitOps Engineer @ <a href="https://www.empire.ca/">Empire Life Insurance Company</a>

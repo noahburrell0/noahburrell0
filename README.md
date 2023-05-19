@@ -47,7 +47,7 @@ Check out my website at [burrell.tech](https://burrell.tech/)!
             2023-05 &#8594; Present
         </td>
         <td>
-            <img src="https://akuity.io/favicon-32x32.png" height="16px"> Technical Support Engineer @ <a href="https://www.akuity.io/">Akuity</a>
+            <img src="https://akuity.io/favicon-32x32.png" height="16px"> Technical Support Engineer @ <a href="https://akuity.io/">Akuity</a>
         </td>
     </tr>
     <tr>

@@ -1,6 +1,6 @@
 # Noah Burrell
 
-Senior Technical Support Engineer at [Akuity](https://akuity.io), the company founded by the creators of Argo CD. I've spent the last 5 years building and managing GitOps workflows, helping teams adopt Kubernetes and continuous delivery at scale.
+Senior Technical Support Engineer at [Akuity](https://akuity.io), the company founded by the creators of Argo CD.
 
 ---
 
@@ -24,38 +24,47 @@ The cluster hosts 20+ applications across internal services, external-facing app
 
 ## Technologies & Tools
 
-### GitOps & Continuous Delivery
+### GitOps & Cloud Native
 ![](https://img.shields.io/badge/Argo_CD-informational?style=flat&logo=argo&logoColor=white&color=EF7B4D)
+![](https://img.shields.io/badge/Argo_Workflows-informational?style=flat&logo=argo&logoColor=white&color=EF7B4D)
+![](https://img.shields.io/badge/Kargo-informational?style=flat&color=575757)
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
 ![](https://img.shields.io/badge/Helm-informational?style=flat&logo=helm&logoColor=white&color=0F1689)
 ![](https://img.shields.io/badge/Kustomize-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
-![](https://img.shields.io/badge/GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2088FF)
-
-### Container Orchestration & Cloud
-![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
+![](https://img.shields.io/badge/Talos_Linux-informational?style=flat&logo=kubernetes&logoColor=white&color=FF7300)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0078D4)
+![](https://img.shields.io/badge/Containerd-informational?style=flat&logo=containerd&logoColor=white&color=575757)
+![](https://img.shields.io/badge/Longhorn-informational?style=flat&logo=rancher&logoColor=white&color=0075A8)
+![](https://img.shields.io/badge/MetalLB-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
+![](https://img.shields.io/badge/Cert--Manager-informational?style=flat&logo=letsencrypt&logoColor=white&color=003A70)
+![](https://img.shields.io/badge/External_Secrets-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
+![](https://img.shields.io/badge/Sealed_Secrets-informational?style=flat&logo=bitwarden&logoColor=white&color=175DDC)
+![](https://img.shields.io/badge/External_DNS-informational?style=flat&logo=cloudflare&logoColor=white&color=F38020)
+![](https://img.shields.io/badge/GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2088FF)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 
-### Infrastructure as Code
+### Infrastructure & Systems
 ![](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7B42BC)
 ![](https://img.shields.io/badge/Ansible-informational?style=flat&logo=ansible&logoColor=white&color=EE0000)
-
-### Systems & Networking
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/NGINX-informational?style=flat&logo=nginx&logoColor=white&color=009639)
 ![](https://img.shields.io/badge/Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=E57000)
-
+![](https://img.shields.io/badge/pfSense-informational?style=flat&logo=pfsense&logoColor=white&color=212121)
+![](https://img.shields.io/badge/Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=F38020)
+![](https://img.shields.io/badge/Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0078D4)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=232F3E)
 ---
 
 ## Professional Experience
 
-| Period | Role |
-|--------|------|
-| 2023 - Present | Senior Technical Support Engineer @ [Akuity](https://akuity.io/) |
-| 2021 - 2023 | SysAdmin / GitOps Engineer @ [Empire Life](https://www.empire.ca/) |
-| 2019 - 2021 | SysAdmin @ [Telecom Metric](https://www.telecommetric.com/) |
-| 2017 - 2019 | Research Assistant @ [Algonquin College ARIE](https://www.algonquincollege.com/arie/) |
+| Period | | Role |
+|--------|:-:|------|
+| 2023 - Present | <img src="https://www.google.com/s2/favicons?domain=akuity.io&sz=32" height="16"> | Senior Technical Support Engineer @ [Akuity](https://akuity.io/) |
+| 2021 - 2023 | <img src="https://www.google.com/s2/favicons?domain=empire.ca&sz=32" height="16"> | SysAdmin / GitOps Engineer @ [Empire Life](https://www.empire.ca/) |
+| 2019 - 2021 | <img src="https://www.google.com/s2/favicons?domain=telecommetric.com&sz=32" height="16"> | SysAdmin @ [Telecom Metric](https://www.telecommetric.com/) |
+| 2017 - 2019 | <img src="https://www.google.com/s2/favicons?domain=algonquincollege.com&sz=32" height="16"> | Research Assistant @ [Algonquin College ARIE](https://www.algonquincollege.com/arie/) |
 
 See my full experience on [LinkedIn](https://www.linkedin.com/in/noahburrell/)
 

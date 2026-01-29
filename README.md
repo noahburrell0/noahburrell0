@@ -1,106 +1,68 @@
-# Hello, folks! 👋
+# Noah Burrell
 
-My name is Noah Burrell and I'm a Technical Support Engineer for Akuity. You can find me on LinkedIn [![LinkedIn][2.2]][2].
+Senior Technical Support Engineer at [Akuity](https://akuity.io), the company founded by the creators of Argo CD. I've spent the last 5 years building and managing GitOps workflows, helping teams adopt Kubernetes and continuous delivery at scale.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Desktop_OS-Pop!__OS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Server_OS-Debian_11-informational?style=flat&logo=debian&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Hypervisor-VMWare_ESXi-informational?style=flat&logo=vmware&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Hypervisor-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Network-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Network-Netgate-informational?style=flat&logo=pfSense&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Network-Ubiquiti-informational?style=flat&logo=ubiquiti&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-ArgoCD-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Helm-informational?style=flat&logo=helm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Github_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Google_Cloud_Platform-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
+---
 
-## 👨‍🦱 About Me
-I have a formal education in computer networking, a homelab to try new things in, and years of professional experience as a System Administrator and DevOps/GitOps engineer. My IT background is very well rounded and I have a strong passion for learning new things.
+## About Me
 
-My hobbies include:
-- 💾 Hoarding data in my homelab.
-- ⌨️ Trying to GitOps-ify my whole life.
-- 🖥 Experimenting with different open source tools and technologies.
-- 🖱 Trying to make my web development skills less terrible.
-- 🐕 Training my dog, Ruby.
-- 🍲 Cooking delicious foods in my smoker.
+My background in system administration and DevOps gives me a practical perspective on infrastructure challenges. I work with GitOps and Argo CD daily, both professionally and in my own environments.
 
-Check out my website at [burrell.tech](https://burrell.tech/)!
+Visit my website at [burrell.tech](https://burrell.tech/)
 
+---
 
+## Homelab
 
-## 💼 Professional Experience
+I run a [production-grade Kubernetes cluster](https://github.com/noahburrell0/k8s) at home that serves as my personal infrastructure. Everything is managed through Argo CD using the App-of-Apps pattern, with the Git repository as the single source of truth.
 
-<table width="100%" border="0px">
-    <tr>
-        <td>
-            2023-05 &#8594; Present
-        </td>
-        <td>
-            <img src="https://akuity.io/favicon-32x32.png" height="16px"> Technical Support Engineer @ <a href="https://akuity.io/">Akuity</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            2021-08 &#8594; 2023-05
-        </td>
-        <td>
-            <img src="https://www.empire.ca/themes/custom/empirelifetheme/favicon.ico" height="16px"> SysAdmin/GitOps Engineer @ <a href="https://www.empire.ca/">Empire Life Insurance Company</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            2019-04 &#8594; 2021-08
-        </td>
-        <td>
-            <img src="https://telecommetric.com/wp-content/uploads/2017/08/cropped-favicon-32x32.png" height="16px"> SysAdmin @ <a href="https://www.telecommetric.com/">Telecom Metric</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            2017-11 &#8594; 2019-03
-        </td>
-        <td>
-            <img src="https://s7494.pcdn.co/wp-content/themes/ac-2017/images/favicons/favicon.ico?v=xQd5vya3e2" height="16px"> Research Assistant @ <a href="https://www.algonquincollege.com/arie/">Algonquin College ARIE</a>
-        </td>
-    </tr>
-        <tr>
-        <td>
-            Pre-2017
-        </td>
-        <td>
-            Nothing exciting
-        </td>
-    </tr>
-</table>
+The stack runs on Talos Linux nodes provisioned through Omni on Proxmox. Longhorn handles distributed storage, MetalLB provides load balancing, and cert-manager automates TLS certificates through Let's Encrypt. I use a two-tier approach for secrets: Sealed Secrets for bootstrapping and External Secrets for runtime operations.
 
-<!-- icons with padding -->
+The cluster hosts 20+ applications across internal services, external-facing apps, and infrastructure components. Argo CD monitors everything, including its own configuration, automatically reconciling any drift from the declared state.
 
-[1.1]: http://i.imgur.com/0o48UoR.png ()
+---
 
-<!-- icons without padding -->
+## Technologies & Tools
 
-[1.2]: http://i.imgur.com/9I6NRUm.png ()
-[2.2]: https://raw.githubusercontent.com/noahburrell0/noahburrell0/main/resources/linkedin-3-16.png ()
+### GitOps & Continuous Delivery
+![](https://img.shields.io/badge/Argo_CD-informational?style=flat&logo=argo&logoColor=white&color=EF7B4D)
+![](https://img.shields.io/badge/Helm-informational?style=flat&logo=helm&logoColor=white&color=0F1689)
+![](https://img.shields.io/badge/Kustomize-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
+![](https://img.shields.io/badge/GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2088FF)
 
-<!-- links to your social media accounts -->
+### Container Orchestration & Cloud
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0078D4)
 
-[1]: https://github.com/noahburrell0
-[2]: https://www.linkedin.com/in/noahburrell/
-[3]: https://github.com/Frontenac-Technology-Services
+### Infrastructure as Code
+![](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7B42BC)
+![](https://img.shields.io/badge/Ansible-informational?style=flat&logo=ansible&logoColor=white&color=EE0000)
 
-## 💸 Hire Me
+### Systems & Networking
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
+![](https://img.shields.io/badge/NGINX-informational?style=flat&logo=nginx&logoColor=white&color=009639)
+![](https://img.shields.io/badge/Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=E57000)
 
-Need help getting started with Kubernetes (or DevOps, or GitOps), or have a project you need an extra set of hands with? I'm available for freelance and consulting work! I'm a CKA certified Kubernetes (and Linux) administrator and DevOps engineer during the day, and I also do a lot of the same sort of stuff in my spare time for fun.
+---
 
-Email me directly at [noah@burrell.tech](mailto:noah@burrell.tech), or visit my website at [burrell.tech](https://burrell.tech).
+## Professional Experience
+
+| Period | Role |
+|--------|------|
+| 2023 - Present | Senior Technical Support Engineer @ [Akuity](https://akuity.io/) |
+| 2021 - 2023 | SysAdmin / GitOps Engineer @ [Empire Life](https://www.empire.ca/) |
+| 2019 - 2021 | SysAdmin @ [Telecom Metric](https://www.telecommetric.com/) |
+| 2017 - 2019 | Research Assistant @ [Algonquin College ARIE](https://www.algonquincollege.com/arie/) |
+
+See my full experience on [LinkedIn](https://www.linkedin.com/in/noahburrell/)
+
+---
+
+## Consulting & Opportunities
+
+I take on freelance consulting work related to Kubernetes, GitOps, Argo CD, and Linux systems. Whether you need help implementing a GitOps workflow, troubleshooting a deployment issue, training your team, or just want another perspective on your infrastructure, I'm happy to help.
+
+I'm always open to conversations about interesting opportunities. Reach out at [noah@burrell.tech](mailto:noah@burrell.tech) or visit [burrell.tech](https://burrell.tech).

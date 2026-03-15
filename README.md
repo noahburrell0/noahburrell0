@@ -14,7 +14,7 @@ Visit my website at [burrell.tech](https://burrell.tech/)
 
 ## Homelab
 
-I run a [production-grade Kubernetes cluster](https://github.com/noahburrell0/k8s) at home that serves as my personal infrastructure. Everything is managed through Argo CD using the App-of-Apps pattern, with the Git repository as the single source of truth.
+I run a [Kubernetes cluster](https://github.com/noahburrell0/k8s) at home that serves as my personal infrastructure. Everything is managed through Argo CD using the App-of-Apps pattern, with the Git repository as the single source of truth.
 
 The stack runs on Talos Linux nodes provisioned through Omni on Proxmox. Longhorn handles distributed storage, MetalLB provides load balancing, and cert-manager automates TLS certificates through Let's Encrypt. I use a two-tier approach for secrets: Sealed Secrets for bootstrapping and External Secrets for runtime operations.
 

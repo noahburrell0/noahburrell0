@@ -8,7 +8,7 @@ Senior Technical Support Engineer at [Akuity](https://akuity.io), the company fo
 
 My background in system administration and DevOps gives me a practical perspective on infrastructure challenges. I work with GitOps and Argo CD daily, both professionally and in my own environments.
 
-Visit my website at [burrell.tech](https://burrell.tech/)
+Visit my website at [burrell.tech/about](https://burrell.tech/about)
 
 ---
 
